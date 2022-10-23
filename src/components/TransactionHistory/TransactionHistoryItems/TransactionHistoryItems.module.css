@@ -1,0 +1,17 @@
+.table {
+  background-color: rgb(6, 173, 173);
+}
+
+.table:nth-last-child(2n) {
+  background-color: white;
+}
+
+.table:hover {
+  scale: 1.02;
+}
+
+.tableType {
+  text-align: left;
+  padding-left: 50px;
+  text-transform: capitalize;
+}
